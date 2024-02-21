@@ -33,6 +33,6 @@ Big thanks to Patrick Collins for being the sherpa on this Blockchain expedition
 ## Let's Chat! 💬
 Want to chat about Blockchain, share your own experiences, or just shoot the breeze? Drop me a line! I'm always up for a good convo.
 
-X : karthick_78 Linkedin :https://www.linkedin.com/in/karthikeyen-k-9ab147229/
+X : https://twitter.com/karthick_78 Linkedin :https://www.linkedin.com/in/karthikeyen-k-9ab147229/
 
 So, that's the plan! Stick around if you're curious about this wild ride into the world of Blockchain. And who knows, maybe we'll uncover the next big thing together. 😎✌️
