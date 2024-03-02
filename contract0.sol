@@ -25,3 +25,10 @@ contract BasicContract {
     }
 }
 
+/* Version Pragma: pragma solidity ^0.8.0;
+
+This line specifies the version of the Solidity compiler that this code should be compiled with. 
+
+contract BasicContract { ... }
+
+This line declares a new Solidity contract named BasicContract.
