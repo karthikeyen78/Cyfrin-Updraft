@@ -33,4 +33,8 @@ contract SimpleToken {
         return true;
     }
 }
-
+/* totalSupply keeps track of the total supply of tokens.
+balanceOf is a mapping to track the balance of tokens for each address.
+The constructor initializes the token with initial supply and assigns it to the deployer's address.
+The transfer function allows users to transfer tokens to other addresses
+An event named Transfer is emitted whenever a transfer occurs.
